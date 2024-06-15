@@ -11,7 +11,7 @@
 
 ## 💻 Sobre o projeto
 
-MyShop é um projeto de ecommerce desenvolvido junto ao curso de ReactJS da ADA, oferecida pelo **Santander Open Academy** no projeto **Santander Coders**. A ideia do projeto é criar o layout de um ecommerce juntando todos os conhecimentos em ReactJS aprendido durante o curso.
+MyShop é um projeto de ecommerce desenvolvido junto ao curso de ReactJS da ADA, oferecida pelo **Santander Open Academy** no projeto **Santander Coders**. A ideia do projeto é criar o layout de um ecommerce com a [fakestore API](https://fakestoreapi.com/) juntando todos os conhecimentos em ReactJS aprendidos durante o curso. 
 
 ## 🎨 Layout
 
